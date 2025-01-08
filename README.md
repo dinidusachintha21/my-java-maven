@@ -1,4 +1,3 @@
-
 # Demo Spring Boot Application
 
 ## Overview
@@ -41,5 +40,4 @@ The Dockerfile consists of the following stages:
 ## License
 This project is licensed under the MIT License.
 
-
-Feel free to customize the `README.md` file to suit your needs. If you have any other requests or need further assistance, let me know!
+---
