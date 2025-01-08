@@ -1,0 +1,34 @@
+# Exclude version control directories
+.git
+.gitignore
+
+# Exclude build system files
+.gradle
+.idea
+*.iml
+.mvn
+*.log
+
+# Exclude Maven-specific files
+target
+*.war
+*.ear
+
+# Exclude temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.old
+
+# Exclude operating system files
+.DS_Store
+Thumbs.db
+
+# Exclude Docker files not needed in the image
+docker-compose.yml
+*.env
+
+# Exclude other unnecessary directories/files
+node_modules
+dist
